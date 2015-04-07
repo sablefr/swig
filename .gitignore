@@ -154,3 +154,4 @@ Examples/scratch
 
 # Out of source tree build directories
 *build*/
+/.project
